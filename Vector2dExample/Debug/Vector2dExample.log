@@ -1,0 +1,8 @@
+﻿  Vector2d.cpp
+C:\Users\olegs\source\repos\Vector2dExample\Vector2dExample\Vector2d.h(17,22): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\olegs\source\repos\Vector2dExample\Vector2dExample\Vector2d.h(19,22): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Vector2dExample.cpp
+C:\Users\olegs\source\repos\Vector2dExample\Vector2dExample\Vector2d.h(17,22): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\olegs\source\repos\Vector2dExample\Vector2dExample\Vector2d.h(19,22): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  Vector2dExample.vcxproj -> C:\Users\olegs\source\repos\Vector2dExample\Debug\Vector2dExample.exe
